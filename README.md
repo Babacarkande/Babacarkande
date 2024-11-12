@@ -4,7 +4,7 @@
  Je continue de développer mes compétences en développement web et gestion de projets
 - 💞️ 👯 J'aime collaborer sur des projets orientés vers la communication digitale et la transformation numérique
 - 💬 N'hésitez pas à me poser des questions sur le développement web/mobile, la création de contenu, la gestion de projets et l'utilisation de JIRA
-- 📫 📫 Comment me contacter : yadel3304@gmail.com
+- 📫 Comment me contacter : yadel3304@gmail.com
 - ⚡ Fun fact : J'adore explorer les nouvelles plateformes et outils digitaux pour les intégrer dans mon travail
 
 💼 Expérience et Compétences
